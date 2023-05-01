@@ -9,4 +9,5 @@
 	- Windows run command: conda env create -f environment_windows.yml
 	- Linux run command: conda env create -f environment_linux.yml
 - Install Serial Port Driver (SiLabs Chipset) from (https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable/software-installation-windows)
+	- Download the drivers from this path on their website: SiLabs Chipset > Download SiLabs CP210x Drivers > Downloads > CP210x Windows Drivers
 
