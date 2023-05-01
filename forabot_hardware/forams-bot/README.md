@@ -11,7 +11,7 @@ Refer to the [Raspberry pi setup](setup/rpi_setup.md) document
 
 ## Setting up the Host PC
 
-Refer to the [client setup](setup/client_setup.md) document.
+Refer to the [client setup](setup/[client_setup.md](https://github.com/ARoS-NCSU/ForaBot/blob/master/forabot_hardware/forams-bot/setup/client_setup.md.txt)) document.
 
 Refer to the [error detection setup](setup/error_detection_setup.md) document for modifying the error detection values.
 
